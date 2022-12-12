@@ -4,7 +4,7 @@ import Gif from './Gif';
 import GifList from './GifList';
 
 const giphy = require('giphy-api')({
-  apiKey: 'aHfAvRJ99qq9hv7NgOj8ofjQP3uRL0Uk',
+  apiKey: 'INSERT HERE',
   https: true
 });
 
